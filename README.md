@@ -2,6 +2,8 @@
 Data Science Portfolio
 
 ## Project 1: Data Science Restaurant Revenue Prediction: Project Overview 
-* Created a mathematical model to increase the effectiveness of investments in new restaurant sites
-* Engineered features from the text of each restaurant quantify the value the companies put in python and excel 
-* Used Support Vector Regression to reach best model 
+* Created a mathematical model to increase the effectiveness of investments in new restaurant sites.
+* Explored categorical and numerical relationship to revenue using graphical models. 
+* Conducted feature engineering on the data to help best predict the model. 
+* Used Linear, Lasso, KNeighbors, and Support Vector Regression to predict revenue
+* Choose Support Vector Regression as model 

@@ -7,3 +7,4 @@ Data Science Portfolio
 * Conducted feature engineering on the data to help best predict the model. 
 * Used Linear, Lasso, KNeighbors, and Support Vector Regression to predict revenue.
 * Choose Support Vector Regression as model.
+[](https://github.com/seblobubbleman/Restaurant-Revenue-Prediction/blob/master/image%204%20.png)
